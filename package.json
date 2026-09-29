@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "alternative-method-to-export-module.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "muxu12",
+  "license": "ISC",
+  "description": "working on node in initial stage",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.18.1"
+  }
+}
